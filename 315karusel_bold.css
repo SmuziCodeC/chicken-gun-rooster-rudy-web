@@ -1,0 +1,9 @@
+@font-face {
+	font-family: '315karusel Bold';
+	src: url('../fonts/315karusel_bold.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/315karusel_bold.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/315karusel_bold.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/315karusel_bold.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/315karusel_bold.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/315karusel_bold.svg#315karusel_bold') format('svg'); /* Chrome < 4, Legacy iOS */
+}
