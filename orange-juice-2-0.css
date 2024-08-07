@@ -1,0 +1,11 @@
+@font-face {
+        font-family: "name--sites-default-files-2021-07-orange-20juice-202-0-ttf";
+        src: url("https://fonts-online.ru//sites/default/files/2021-07/orange%20juice%202.0.ttf");
+      font-display: swap;
+    }
+    .orange-juice-2 {
+        font-family: "name--sites-default-files-2021-07-orange-20juice-202-0-ttf", "notdef";
+
+        font-size: 68px;
+
+<!---->    }
